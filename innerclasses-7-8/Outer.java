@@ -1,3 +1,5 @@
+// TODO Inner method changeOuter() to call Outer Method displayName()
+// TODO call changeOuter() from createInner()
 
 public class Outer {
 	
